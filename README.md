@@ -3,3 +3,5 @@
 
 #### Task 1: BitCoin Price Prediction
 #### Task 2: Stock Price Prediction using Linear Regression
+#### Task 3: COVID-19 Analysis (Quantitative Modelling)
+#### Task 4: Uber Data Analysis
