@@ -1,4 +1,4 @@
-# Data Science Jan2021
+# Data Science January 2021
 ## This repository includes the 4 tasks that I successfully completed as a part of Widhya Data Science Internship - January 2021
 
 #### Task 1: BitCoin Price Prediction
